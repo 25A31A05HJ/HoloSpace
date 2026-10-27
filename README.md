@@ -3,7 +3,7 @@
 A real-time collaborative virtual workspace for interacting with 3D objects, sharing ideas, and working together online.
 
 ## 🚀 Live Demo
-[**https://holo-space-7kjb.vercel.app/**](YOUR_LIVE_DEMO_URL)
+(https://holo-space-7kjb.vercel.app/)
 
 ## ✨ Features
 - 🧊 Interactive 3D workspace
